@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+}
+
+header{
+	height: 100px;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
+}
+
+.topnav-link{
+	text-decoration: none;
+	color: #999;
+	text-transform: uppercase;
+}
